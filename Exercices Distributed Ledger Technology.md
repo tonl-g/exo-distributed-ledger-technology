@@ -26,5 +26,10 @@ Le lien se fait par des règles de consensus (horodatage et preuve) définies pa
 7/ Si je souhaite modifier une transaction de 10 bitcoin que j'ai effectué il y a 6 mois en une transaction de 1 Bitcoin, que dois je modifier dans la Blockchain et que dois je mettre en oeuvre pour que cette modification persiste ?
 Est ce possible selon vous ?
 
+A mon avis, dans un premier temps serait de retrouver cette transaction dans le bloc dans laquelle elle inscrite.
+Par la suite, avoir les ressources nécessaires (puissance matérielle), la faculté à savoir modifier cette transaction qui à été enterinée par un horodatage et une signature électronique.
+Quand bien même, cela est possible le contenu de la transaction inscrit dans le block header du merkle root ne sera plus valide et rendrait cela inutile.
+
+
 
 
