@@ -12,7 +12,7 @@ Ce processus se répète à chaque nouveau noeud ajouté au réseau.
 
 4/ Pouvez vous nommer au moins une personne qui a ou aurait pu influencer directement ou indirectement la création de Bitcoin par ses travaux (une personne qui n'a pas été nommée dans le cours)?
 
-Hal Finney
+Hal Finney car sans lui la première transaction ne serait possible.
 
 5/ Avec vos propres recherches et grâce aux compétences acquises en cours pouvez vous expliquer comment une Blockchain crée un lien entre ses différents Blocks?
 
